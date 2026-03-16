@@ -1,4 +1,4 @@
-# Validation of Resource Allocation Policies via SAT and Monte Carlo
+# Validation of Resource Allocation Policies via Reachability
 
 Implementation for the paper **"Feasibility of Reachability to Validate Resource Allocation Policies Under Temporal Logic Specifications"** (AA228V/CS238V Final Project, Stanford University).
 
