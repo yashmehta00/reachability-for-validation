@@ -94,7 +94,3 @@ If you use this code, please cite the course and the associated report:
   note={AA228V/CS238V Final Project, Stanford University}
 }
 ```
-
-## License
-
-MIT (or as specified by the course).
